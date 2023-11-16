@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欧易 OKX 注册返佣"
+title:  "欧易 OKX 盲盒空投"
 author: jane
 categories: [ 交易所教程 ]
 image: assets/images/okx.jpeg
