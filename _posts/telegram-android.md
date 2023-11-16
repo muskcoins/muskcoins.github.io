@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 电报/飞机/telegram ，安卓包下载，该如何注册 安卓教程
 description: 电报安卓下载注册教程，电报安卓常见问题，鸿蒙系统华为解决方案
 canonical_url: 'https://tggsearch.github.io/docs/telegram-android.html'

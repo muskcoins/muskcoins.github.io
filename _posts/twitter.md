@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 推特/小蓝鸟/twitter 该如何注册
 description: 推特安卓、苹果安装全教程，包含梯子使用
 canonical_url: 'https://tggsearch.github.io/docs/twitter.html'

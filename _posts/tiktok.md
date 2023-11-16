@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: tiktok 下载使用方法，tiktok国内使用教程，tiktok 网页版如何使用
 description: tiktok 在国内下载方法教学，安卓和苹果下载方法以及使用教程
 canonical_url: 'https://tggsearch.github.io/docs/tiktok.html'

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 没有 TRX 转 USDT 教程
 description: trx交易手续费不足转账方法，没有trx怎么转usdt，人民币购买trx教程，钱包有 USDT，提示 TRX 可用余额不足，没有trx怎么转usdt的教程，或者提示无 TRX 无法进行转账，其次还有很多人钱包有 USDT，但是想变现成人民币，不知道如何处理，遇到这类情况应该如何来解决？
 canonical_url: 'https://tggsearch.github.io/docs/trx.html'

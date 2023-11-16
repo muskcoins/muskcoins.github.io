@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: JPEX 出事了，还可以使用哪些交易所值得信赖
 description: JPEX 涉嫌诈骗，连同网红都被逮捕，那么还有哪些可以值得信赖的中心化交易所呢？还会不会出现类似 JPEX 的事件呢？
 canonical_url: 'https://tggsearch.github.io/docs/jpex.html'

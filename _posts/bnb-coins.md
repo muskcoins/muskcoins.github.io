@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 币安买币教程
 description: 币安通过人民币可以轻松的购买其他币种，例如币安购买 Doge、ETH、BTC等，这里会涉及到一个法币与 USDT 购买的流程，这部分需要有一个详细的教程指引，不然很容易入坑。有了基础的 USDT 以后，买其他币种就比较简单了，详细的请查看本文。
 canonical_url: 'https://tggsearch.github.io/docs/bnb-coins.html'

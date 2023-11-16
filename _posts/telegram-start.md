@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Telegram电报新用户指南-有趣的电报群，如何寻找电报群
 description: 经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入
 canonical_url: 'https://tggsearch.github.io/docs/telegram-start.html'

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Telegram Paid Bot, Boost Your Income with feeMaster
 description: Assuming you have valuable resources, such as a social engineering database, numerous cracked software, or even a shared account for free chatgpt
 canonical_url: 'https://tggsearch.github.io/docs/pay-bot-en.html'

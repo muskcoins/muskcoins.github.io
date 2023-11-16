@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 电报/飞机/telegram 该如何注册
 description: 如果你想用电报，那么应该如何注册下载呢？常见的问题有哪些，又应该如何解决优化处理呢？
 canonical_url: 'https://tggsearch.github.io/docs/register.html'

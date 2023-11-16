@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 推特 X (Twitter)视频下载教程
 description: Twitter视频下载教程，推特视频下载教程，X视频下载教程，如何从 Twitter 中获取视频素材，如何下载每日大赛的视频。
 canonical_url: 'https://tggsearch.github.io/docs/twitter-video-download.html'

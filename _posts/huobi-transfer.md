@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 火币如何转账教程｜小白必备教程
 description: 在火币购买了USDT，火币怎么付款教程，怎么在火币转账给对方，转账给火币用户以及转账给钱包用户，应该如何操作，避免钱财丢失，需要注意哪些细节。
 canonical_url: 'https://tggsearch.github.io/docs/huobi-transfer.html'

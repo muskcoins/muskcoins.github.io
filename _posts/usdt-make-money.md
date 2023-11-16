@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: USDT 理财教程，钱包 USDT 理财，USDT 币圈埋伏教程
 description: 有足够的 USDT , 但是短期无法兑换成人民币，那么投资理财是最佳的方案，不要浪费了你 USDT，目前年化都可以达到 10% 以上，然后加上汇率加成，那么相当于人民币年化可能达到 20% 以上的利润，究竟应该如何去理财呢？
 canonical_url: 'https://tggsearch.github.io/docs/usdt-make-money.html'

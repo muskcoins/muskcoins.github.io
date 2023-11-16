@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: YGG 近日暴涨近 400% ，到底是什么原因你知道吗？
 description: 这两天刷爆交易的一个币种叫做 YGG，近日暴涨400%，那么到底是什么原因呢？是项目突破了，还是其他原因，我们来解读一下
 canonical_url: 'https://tggsearch.github.io/docs/news-ygg.html'

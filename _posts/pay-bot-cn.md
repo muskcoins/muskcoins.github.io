@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 电报 telegram 付费机器人，带你稳步提升收入 feeMaster
 description: 假设你有很好的资源，比如你有社工库、比如你有很多破解软件又或者你有免费的 chatgpt 账号共享、甚至是海外的各类会员账号共享，或者你有技术
 canonical_url: 'https://tggsearch.github.io/docs/pay-bot-cn.html'

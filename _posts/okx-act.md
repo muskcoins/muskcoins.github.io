@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: OKX 欧易新注册送盲盒，玩合约就送 20U 体验现金券
 description: 欧易通过本节点邀请注册，并月交易额合约交易达到 10000 USDT 就可以拿到 20U 的合约体验券，赶紧来注册体验。
 canonical_url: 'https://tggsearch.github.io/docs/okx-act.html'

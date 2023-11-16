@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Telegram 机器人
 description: Telegram 机器人是什么，Telegram 有哪些比较有趣的机器人，如果自己想创建电报机器人应该如何来开始
 canonical_url: 'https://tggsearch.github.io/docs/telegram-bot.html'

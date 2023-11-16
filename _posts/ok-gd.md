@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 探秘交易期权合约与跟单员以及欧易的跟单员怎么申请：成为基金经理的先行者，注册跟单员开启精彩投资旅程！
 description: 什么是跟单员，跟单员有什么作用，交易期权合约是金融市场中常见的工具，它为投资者提供了一种灵活的投资方式。本文将介绍交易期权合约的概念和作用，并重点介绍欧易跟单员这一令人振奋的角色。
 canonical_url: 'https://tggsearch.github.io/docs/ok-gd.html'
