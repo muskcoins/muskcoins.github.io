@@ -2,7 +2,7 @@
 layout: post
 title:  "欧易 OKX 注册返佣"
 author: jane
-categories: [ Exchange ]
+categories: [ 交易所教程 ]
 image: assets/images/okx.jpeg
 tags: [featured]
 ---
