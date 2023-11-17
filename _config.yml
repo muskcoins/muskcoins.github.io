@@ -57,7 +57,11 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
-
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
