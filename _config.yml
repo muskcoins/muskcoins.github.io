@@ -43,6 +43,13 @@ defaults:
       layout: post
       author: sal
       avatar: ./assets/images/avatar1.jpg
+
+  # all category
+  - scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: category
       
   # all pages
   - scope:
