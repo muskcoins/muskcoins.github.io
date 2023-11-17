@@ -49,7 +49,7 @@ defaults:
       path: ""
       type: "categories"
     values:
-      layout: category
+      layout: categories
       
   # all pages
   - scope:
