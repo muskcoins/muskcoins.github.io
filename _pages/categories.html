@@ -12,6 +12,7 @@ permalink: "/categories.html"
         {% assign selected_category = page.category %}
         {% assign mc = '123' %}
         {{ selected_category }}
+        {{ absolute_url }}
         {{ mc }}
         {{ page.url }}
         {% for category in site.categories %} 
