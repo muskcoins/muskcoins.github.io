@@ -8,11 +8,11 @@ permalink: "/categories.html"
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">分类</h1>
 
+        
         {% assign selected_category = site.data.params.category %}
-        {% for category in site.categories %} 
         {{ selected_category }}
-        {{ category }}
-        {% if category == selected_category %}
+        {{ site.data.params }}
+        {% for category in site.categories %} 
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
             
         {% assign pages_list = category[1] %}
@@ -26,7 +26,6 @@ permalink: "/categories.html"
         {% endfor %}
         {% assign pages_list = nil %}
         {% assign group = nil %}
-        {% endif %}
         {% endfor %}
 
         </div>
