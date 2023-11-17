@@ -10,6 +10,8 @@ permalink: "/exchange.html"
 
         {% for category in site.categories %} 
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        {{ category }}
+        {{ page.category }}
         {% if page.category == category %}
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}
