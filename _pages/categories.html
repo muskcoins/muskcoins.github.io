@@ -10,6 +10,8 @@ permalink: "/categories.html"
 
         {% assign selected_category = site.data.params.category %}
         {% for category in site.categories %} 
+        {{ selected_category }}
+        {{ category }}
         {% if category == selected_category %}
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
             
