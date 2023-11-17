@@ -9,9 +9,10 @@ permalink: "/categories.html"
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">分类</h1>
 
         
-        {% assign selected_category = site.data.params.category %}
+        {% assign selected_category = page.category %}
+        {% assign mc = '123' %}
         {{ selected_category }}
-        {{ site.data.params }}
+        {{ mc }}
         {% for category in site.categories %} 
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
             
