@@ -1,7 +1,7 @@
 ---
 title: "币圈交易所教程指南"
 layout: default
-category: exchange
+category: 交易所教程
 permalink: "/exchange.html"
 ---
 <div class="container">
@@ -9,8 +9,6 @@ permalink: "/exchange.html"
         <div class="col-md-8">
 
         {% for category in site.categories %} 
-        {{ page.category }}
-        {{ category[0] }}
         {% if page.category == category[0] %}
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
         {% assign pages_list = category[1] %}
