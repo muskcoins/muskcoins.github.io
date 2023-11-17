@@ -28,16 +28,16 @@ permalink: "/exchange.html"
         </div>
         <div class="mt-5">
             <!-- Pagination links -->
-               {% if paginator.total_pages > 1 %}
+               {% if pages_list.total_pages > 1 %}
                <ul class="pagination"> 
-                 {% if paginator.previous_page %}
+                 {% if pages_list.previous_page %}
                    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
                  {% else %}
                    <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
                  {% endif %}
    
-                 {% for page in (1..paginator.total_pages) %}
-                   {% if page == paginator.page %}
+                 {% for page in (1..pages_list.total_pages) %}
+                   {% if page == pages_list.page %}
                    <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                    {% elsif page == 1 %}
                    <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
@@ -46,14 +46,17 @@ permalink: "/exchange.html"
                    {% endif %}
                  {% endfor %}
    
-                 {% if paginator.next_page %}
+                 {% if pages_list.next_page %}
                    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下一页 &raquo;</a></li>
                  {% else %}
                    <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
                  {% endif %}
                </ul>
                {% endif %}      
-           </div>
+        </div>
+    <div class="col-md-4">
+        {% include sidebar-featured.html %}    
+    </div>
         
     </div>
 </div>
