@@ -2,7 +2,7 @@
 layout: post
 title:  "火币注册空投奖励"
 author: jane
-categories: [ 交易所教程 ]
+categories: [ exchange ]
 image: assets/images/huobi.jpeg
 tags: [featured]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "币安 BNB 注册返佣"
 author: jane
-categories: [ 交易所教程 ]
+categories: [ exchange ]
 image: assets/images/bnb.png
 tags: [featured]
 ---

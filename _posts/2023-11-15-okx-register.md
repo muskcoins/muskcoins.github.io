@@ -2,7 +2,7 @@
 layout: post
 title:  "欧易 OKX 盲盒空投"
 author: jane
-categories: [ 交易所教程 ]
+categories: [ exchange ]
 image: assets/images/okx.jpeg
 tags: [featured]
 ---
