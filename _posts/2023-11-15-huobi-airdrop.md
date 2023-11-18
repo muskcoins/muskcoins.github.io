@@ -6,7 +6,7 @@ categories: [ airdrop, exchange ]
 image: assets/images/huobi-act.png
 tags: [sticky]
 ---
-火币联合 Betrays 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。[什么是 Betrays 社区，点击查看](./betrays.html)
+火币联合 Betrys 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
 
 [火币官方福利注册链接](/302?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)
 
@@ -15,7 +15,7 @@ tags: [sticky]
 #### 注册高返佣
 注册账号在活动期间都可以获得比其他平台高的现货和合约返佣 30%，当前为各大交易所最高的返佣福利了
 
-#### 交易送 3 U（betrays社区专项）
+#### 交易送 3 U（betrys社区专项）
 <p class="red-text-word">
 注册后只要发生任何一笔交易就可以获得 3U 的 bigtime 空投
 </p>
@@ -34,5 +34,5 @@ KYC 认证可最高抽取 800 USDT 奖励，等等，最高可领取 241 USDT，
 为庆祝本次火币活动，我们将在本周内，连续 3 天进行红包福利奖励，届时请大家关注微信群。
 
 ### 参与方法
-通过 betrays 专属链接注册即可参与
+通过 betrys 专属链接注册即可参与
 
