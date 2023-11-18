@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<h2 class="category-title">分类：{{ page.title }}</h2>
+<!-- 将分类页的分类赋给变量page_category -->
+{% assign page_category = page.category %}
+<ul>
+  <!-- 因为无法直接在categories后面跟新建的变量,所以只能通过循环判断的方式来确定当前分类 -->
+  <!-- 循环所有分类 -->
+  {% for category in site.categories %}
+  <!-- 如果分类页面的分类与变量中的分类相同 -->
+  {% if page_category == category[0] %}
+  <!-- 循环此分类中所有文章 -->
+  {% for post in category[1] %}
+  <li>
+    <small class="post-date">{{ post.date | date:"%Y-%m-%d" }}</small>
+    <a class="category-post-title" href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </li>
+  {% endfor %}
+  {% endif %}
+  {% endfor %}
+</ul>
