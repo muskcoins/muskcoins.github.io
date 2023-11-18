@@ -10,7 +10,7 @@ permalink: "/exchange.html"
 
         {% assign count = 0 %}
         {% for category in site.categories %} 
-        {% if page.category == category[0] && count < 50 %}
+        {% if page.category == category[0] && count < 2 %}
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
         {% assign pages_list = category[1] %}
         {% count++ %}
