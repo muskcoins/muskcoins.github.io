@@ -3,7 +3,7 @@ layout: post
 title:  "欧易 OKX 盲盒空投"
 author: jane
 categories: [ exchange ]
-image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-register.webp
 tags: [featured]
 ---
 欧易（OKX）是一家专业的在线交易平台，为用户提供多种金融产品和服务，包括外汇、股票、期货等。与此同时，欧易还推出了注册返佣计划，让用户在交易中获得额外的收益。在本教程中，我将为你详细介绍欧易注册返佣的流程。
