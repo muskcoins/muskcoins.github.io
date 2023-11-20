@@ -3,7 +3,7 @@ layout: post
 title:  "币安 BNB 注册返佣"
 author: jane
 categories: [ exchange ]
-image: assets/images/bnb.png
+image: assets/images/bnb.webp
 tags: [featured]
 ---
 币安（Binance）是全球领先的加密货币交易平台之一，自2017年成立以来，以其强大的技术基础、广泛的加密货币交易对选择以及用户友好的界面迅速在全球范围内获得了巨大的成功。由赵长鹏（CZ）创立，币安在短短几年内不仅改变了数字货币交易的面貌，也在全球范围内建立了坚实的用户基础。
