@@ -1130,8 +1130,17 @@ lunr.Pipeline.registerFunction(lunr.stopWordFilter, 'stopWordFilter')
  */
 lunr.trimmer = function (token) {
   return token.update(function (s) {
+    var reg = /[\u4E00-\u9FA5\uF900-\uFA2D]/;  
+    if(reg.test(s)){
+      return s;
+    }
     return s.replace(/^\W+/, '').replace(/\W+$/, '')
   })
+}
+
+function isChineseChar(str){     
+  var reg = /[\u4E00-\u9FA5\uF900-\uFA2D]/;  
+  return reg.test(str);  
 }
 
 lunr.Pipeline.registerFunction(lunr.trimmer, 'trimmer')
