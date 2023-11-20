@@ -3,7 +3,7 @@ layout: post
 title:  "火币注册空投奖励"
 author: jane
 categories: [ exchange ]
-image: assets/images/huobi.webp
+image: https://cdn.jsdelivr.net/gh/tggsearch/muskcoins.github.io/assets/images/huobi.webp
 tags: [featured]
 ---
 自2013年成立以来，火币（Huobi）已迅速发展成为全球领先的加密货币交易所之一。创始人李林的愿景是建立一个安全、专业、可信的数字资产交易平台，而火币的成长轨迹证明了他们在实现这一目标上的成功。
