@@ -10,7 +10,7 @@ permalink: "/exchange.html"
 
         {% for category in site.categories %} 
         {% if page.category == category[0] %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>交易所教程</span></h4>
         {% assign pages_list = category[1] %}
         {% assign count = 0 %}
         {% for post in pages_list %}
