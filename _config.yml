@@ -20,7 +20,7 @@ authors:
     sal:
       name:           软件翻译官
       site:           https://twitter.com/idanhua
-      avatar:         https://cdn.jsdelivr.net/gh/tggsearch/muskcoins.github.io/assets/images/avatar1.webp
+      avatar:         https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/avatar1.webp
       bio:            "币圈各类教程玩法"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/idanhua
@@ -42,7 +42,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: https://cdn.jsdelivr.net/gh/tggsearch/muskcoins.github.io/assets/images/avatar1.webp
+      avatar: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/avatar1.webp
       
   # all pages
   - scope:

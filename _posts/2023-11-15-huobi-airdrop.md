@@ -3,7 +3,7 @@ layout: post
 title:  "火币专属空投奖励，任意交易就送 3U"
 author: jane
 categories: [ airdrop, exchange ]
-image: https://cdn.jsdelivr.net/gh/tggsearch/muskcoins.github.io/assets/images/huobi-act.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-act.webp
 tags: [sticky]
 ---
 火币联合 Betrys 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
