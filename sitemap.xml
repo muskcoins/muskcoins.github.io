@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2023-11-23T01:53:49.392Z</lastmod>
+    <lastmod>2023-11-23T02:58:10.389Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -24,5 +24,8 @@
   </url><url>
     <loc>https://muskcoins.github.io/web3-wallet</loc>
     <lastmod>2023-11-20</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/avive</loc>
+    <lastmod>2023-11-23</lastmod>
   </url>
 </urlset>
