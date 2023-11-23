@@ -22,7 +22,7 @@ let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 fs.readdirSync(markdownFolder).forEach(file => {
     if (file.endsWith('.md')) {
         const fileNameWithoutExtension = file.replace('.md', '').replace(/^\d{4}-\d{2}-\d{2}-/, ''); // 去掉日期部分
-        const url = `${siteUrlPrefix}${fileNameWithoutExtension}`;
+        const url = `${siteUrlPrefix}${fileNameWithoutExtension}/`;
 
         const filePath = path.join(markdownFolder, file);
         const stat = fs.statSync(filePath);
