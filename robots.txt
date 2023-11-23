@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /302.html
+Disallow: /redirect.html
