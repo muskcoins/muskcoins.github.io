@@ -4,10 +4,19 @@ const path = require('path');
 const markdownFolder = './_posts'; // 指定你的Markdown文件夹路径
 const outputFilePath = './sitemap.xml'; // 指定生成的sitemap.xml文件路径
 const siteUrlPrefix = 'https://muskcoins.github.io/'; // 指定网站URL前缀
+const currentDate = new Date();
+const formattedDate = currentDate.toISOString();
 
 // 开头部分
 let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`;
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+  <loc>https://muskcoins.github.io/</loc>
+  <lastmod>${formattedDate}</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+  </url>
+`;
 
 // 读取Markdown文件夹中的文件
 fs.readdirSync(markdownFolder).forEach(file => {
