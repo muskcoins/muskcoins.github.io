@@ -11,10 +11,10 @@ const formattedDate = currentDate.toISOString();
 let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-  <loc>https://muskcoins.github.io/</loc>
-  <lastmod>${formattedDate}</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>1.0</priority>
+    <loc>https://muskcoins.github.io/</loc>
+    <lastmod>${formattedDate}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 `;
 
@@ -29,8 +29,7 @@ fs.readdirSync(markdownFolder).forEach(file => {
         const lastMod = stat.mtime.toISOString().split('T')[0];
         
         // 生成sitemap条目
-        sitemapContent += `
-  <url>
+        sitemapContent += `<url>
     <loc>${encodeURI(url)}</loc>
     <lastmod>${lastMod}</lastmod>
   </url>`;
