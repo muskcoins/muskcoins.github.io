@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2023-11-23T07:18:43.330Z</lastmod>
+    <lastmod>2023-11-24T03:29:23.037Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,24 +11,27 @@
     <lastmod>2023-11-20</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/huobi-airdrop/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2023-11-23</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/huobi-register/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2023-11-23</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-register/</loc>
     <lastmod>2023-11-20</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/buy-coins/</loc>
-    <lastmod>2023-11-20</lastmod>
+    <lastmod>2023-11-23</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/web3-wallet/</loc>
     <lastmod>2023-11-20</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/avive/</loc>
-    <lastmod>2023-11-23</lastmod>
+    <lastmod>2023-11-24</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/btc/</loc>
     <lastmod>2023-11-23</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/okx-web3/</loc>
+    <lastmod>2023-11-24</lastmod>
   </url>
 </urlset>
