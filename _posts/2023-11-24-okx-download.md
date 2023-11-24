@@ -4,7 +4,6 @@ title:  "欧易(OKX)注册下载教程"
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-register.webp
-tags: [featured]
 ---
 欧易（OKX）目前是币圈比较大的交易所，而且在大陆国内用户知名度也非常高，现在新用户都有盲盒奖励，奖励的0.1-20美金不等，其次要下载欧易 APP 的话很多时候会有一些麻烦，特别是苹果用户，其次也害怕下载到假的APP，那么今天就提供一个比较安全的下载教程。
 
