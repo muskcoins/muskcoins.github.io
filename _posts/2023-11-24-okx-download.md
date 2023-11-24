@@ -10,9 +10,9 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 ### 注册欧易领返佣
 请注意现在交易所都会提供`返佣注册`，因此你在使用交易所之前，最好先去注册拿到返佣后再进行下载，下面是返佣的地址：
 
-[有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
+[有 VPN 梯子注册地址 https://www.okx.com/join/90884854](/302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.7202020.com/join/90884854](./302.html?target=https://www.7202020.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.7202020.com/join/90884854](/302.html?target=https://www.7202020.com/join/90884854)
 
 
 ### 下载 APP 打开盲盒现金
@@ -26,10 +26,10 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 如果无法下载，点击无效果，请右下角联系平台客服进行处理。
 
 #### 苹果机型
-苹果的话，一定需要海外苹果账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](./302.html?target=https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，或者前往这篇文章获取
+苹果的话，一定需要海外苹果账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](/302.html?target=https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，或者前往这篇文章获取
 
 想要永久的购买一个海外苹果账号，前往这里购买
- [https://appleshop001.com/?from=10664#shop](./302.html?target=https://appleshop001.com/?from=10664#shop)
+ [https://appleshop001.com/?from=10664#shop](/302.html?target=https://appleshop001.com/?from=10664#shop)
 
-如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
+如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](/302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
 
