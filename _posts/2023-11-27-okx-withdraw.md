@@ -4,7 +4,7 @@ title:  "欧易提现教程"
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-web3-wallet.webp
 ---
-欧易 OKX 提现是指，将你的 USDT 兑换为人民币的过程，那么应该如何进行操作呢？这里面又存在哪些风险以及需要考虑的安全问题呢？这篇文章就带大家了解如何提现，以及提现过程中我们需要注意的细节知识点。
+欧易 OKX 提现是指，将你的 USDT 提现为人民币的过程，那么应该如何进行操作呢？这里面又存在哪些风险以及需要考虑的安全问题呢？这篇文章就带大家了解如何提现，以及提现过程中我们需要注意的细节知识点。
 
 ### 欧易提现流程
 
