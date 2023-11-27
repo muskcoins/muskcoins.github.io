@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欧易提现教程"
+title:  "欧易提现教程 | 提现必须知道的细节知识"
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-withdraw-page.webp
 ---
