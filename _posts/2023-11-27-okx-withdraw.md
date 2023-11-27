@@ -14,19 +14,19 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 4. 在欧易资产界面选择选择提币按钮，如下图：
 
 <div align=center>
-    <img alt="okx-assets" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-assets.webp" width="50%">
+    <img alt="okx-assets" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-assets.webp" width="30%">
 </div>
 
 5. 选择 C2C 交易
 
 <div align=center>
-    <img alt="okx-assets-c2c" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-assets-c2c.webp" width="70%">
+    <img alt="okx-assets-c2c" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-assets-c2c.webp" width="50%">
 </div>
 
 6. 为了避免麻烦你可以选择`快捷交易`，然后输入你可售卖的 USDT，比如下图这样
 
 <div align=center>
-    <img alt="okx-withdraw-money" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-withdraw-money.webp" width="70%">
+    <img alt="okx-withdraw-money" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-withdraw-money.webp" width="50%">
 </div>
 
 7. 最后再选择支付方式，如果你刚开始没有，则需要绑定一下支付方式，比如微信、支付宝或者银行卡
