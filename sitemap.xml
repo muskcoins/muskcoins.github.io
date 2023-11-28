@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2023-11-27T02:33:56.464Z</lastmod>
+    <lastmod>2023-11-28T02:42:29.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,5 +39,8 @@
   </url><url>
     <loc>https://muskcoins.github.io/okx-withdraw/</loc>
     <lastmod>2023-11-27</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/airdrop-course/</loc>
+    <lastmod>2023-11-28</lastmod>
   </url>
 </urlset>

@@ -30,3 +30,8 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/a
 
 其次你可以创建 `2个以上的 Token 钱包地址`，撸空投可以拿无资产的 Token 地址，拿到空投后再转移到有资产的 Token 地址就可以了。
 
+### 当前可撸的可信空投（持续更新）
+
+我非常看好的一个项目，NFT 和空投都有可能发生，请大家尽快参与
+[https://venom.network/tasks](/302.html?target=https://venom.network/tasks)
+
