@@ -22,7 +22,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/a
 你可以直接在欧易 WEB3 钱包里面看到一些空投活动，这些是非常靠谱的，欧易基本都是审核过一次的。其次你可以在 [https://airdrops.io/](/302.html?target=https://airdrops.io/) 上找到一些空投项目，比如下面的，由于是英文的你们需要用网页工具直接翻译成中文。
 
 <div align=center>
-    <img alt="airdrop-project" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/airdrop-project.webp" width="50%">
+    <img alt="airdrop-project" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/airdrop-project.webp" width="70%">
 </div>
 
 ### 撸空投注意的细节
