@@ -33,3 +33,4 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 
 如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](/302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
 
+`本文出处地址：https://muskcoins.github.io`

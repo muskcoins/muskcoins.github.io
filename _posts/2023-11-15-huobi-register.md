@@ -22,3 +22,5 @@ OTC交易：为大额交易提供场外交易服务。
 
 ### 火币注册福利领取教程
 这里我们有一个平台提供了注册下载教程，大家可以参考我们的技术网站平台 [火币 & Betrays 社区专项 Bigtime 空投活动](https://tggsearch.github.io/docs/huobi-act.html)
+
+`本文出处地址：https://muskcoins.github.io`
