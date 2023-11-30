@@ -49,5 +49,3 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 
 #### USDT 非常多
 如果你很多 USDT 请勿一次一个人出，这样一定会被冻结的情况，资金量一年一个人超出一定数量，比如20万基本都会冻结，如果想出怎么办，可以找多个亲戚朋友协助处理，或者找靠谱的人，但是需要收手续费，并且还挺高，因此让家人或者亲戚注册几个欧易，然后自己慢慢出是一种好的办法。
-
-`本文出处地址：https://muskcoins.github.io`

@@ -17,5 +17,3 @@ tags: [featured]
 
 ### 注册教程
 这里我们有一个平台提供了注册下载教程，大家可以参考我们的技术网站平台 [币安注册下载教程｜币安返佣20%注册下载教程](https://tggsearch.github.io/docs/bnb-buy-coins.html)
-
-`本文出处地址：https://muskcoins.github.io`

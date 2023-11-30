@@ -94,4 +94,29 @@
 
 </body>
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="6c8a85ee-0110-481c-bae6-777e7b2dbb1f";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<script type="text/javascript">
+    // 获取包含文本的元素
+    var contentElement = document.getElementById('content');
+
+    // 监听复制事件
+    contentElement.addEventListener('copy', function (event) {
+        // 获取选中的文本
+        var selectedText = window.getSelection().toString();
+
+        // 在复制的文本后追加内容
+        var appendedText = selectedText + ' - 本文来自 https://muskcoins.github.io';
+
+        // 创建一个新的div元素，将修改后的文本添加到其中
+        var clipboardData = event.clipboardData || window.clipboardData;
+        var newDiv = document.createElement('div');
+        newDiv.textContent = appendedText;
+
+        // 将新div元素添加到剪贴板
+        clipboardData.setData('text/html', newDiv.outerHTML);
+        clipboardData.setData('text/plain', appendedText);
+
+        // 阻止默认的复制事件
+        event.preventDefault();
+    });
+</script>
 </html>

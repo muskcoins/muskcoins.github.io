@@ -35,5 +35,3 @@ KYC 认证可最高抽取 800 USDT 奖励，等等，最高可领取 241 USDT，
 
 ### 参与方法
 通过 betrys 专属链接注册即可参与
-
-`本文出处地址：https://muskcoins.github.io`

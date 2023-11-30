@@ -13,5 +13,3 @@ tags: [featured]
 
 ### 欧易注册教程
 这里我们有一个平台提供了注册下载教程，大家可以参考我们的技术网站平台 [欧易(OKX)注册教程｜安卓下载安装教程](/okx-download/)
-
-`本文出处地址：https://muskcoins.github.io`
