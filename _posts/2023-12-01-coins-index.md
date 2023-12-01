@@ -2,7 +2,7 @@
 layout: post
 title:  "交易所返佣导航｜欧易返佣｜币安返佣｜火币返佣注册教程"
 categories: [ exchange ]
-image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-withdraw-page.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/fanyong-coins-index.webp
 ---
 欧易、币安和火币以及 bitget 和 gateio 等交易所目前都是有返佣的，而且返佣比例都是比较高的，一般都是 20%，不过火币当前是最高的 30%，下面就是一些返佣的注册地址。
 
