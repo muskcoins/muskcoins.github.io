@@ -5,6 +5,7 @@ categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/fanyong-coins-index.webp
 ---
 欧易、币安和火币以及 bitget 和 gateio 等交易所目前都是有返佣的，而且返佣比例都是比较高的，一般都是 20%，不过火币当前是最高的 30%，下面就是一些返佣的注册地址。
+本文主要是来自社区网站：[币圈导航|币圈各大交易所返佣导航](https://tggsearch.github.io/docs/coins-index.html)
 
 ### 币圈各大返佣网址导航
 <div class='icon-block-body-four'>
@@ -58,6 +59,3 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/f
 | 火币官方中文群 | [@huobiofficial](/302.html?target=https://t.me/huobiofficial) |
 | bitGet官方中文群 | [@Bitget_CNOfficial](/302.html?target=https://t.me/Bitget_CNOfficial) |
 | gateIO官方中文群 | [@gate_zh](/302.html?target=https://t.me/gate_zh) |
-
-
-本文主要是来自社区网站：[币圈导航|币圈各大交易所返佣导航](https://tggsearch.github.io/docs/coins-index.html)
