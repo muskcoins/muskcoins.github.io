@@ -6,8 +6,7 @@ permalink: "/exchange.html"
 ---
 <div class="container">
     <div class="row justify-content-center">
-      <div class="col-md-8">
-        <h4 class="font-weight-bold spanborder text-capitalize"><span>交易所网址</span></h4>
+        <div class="col-md-8">
           <div class='icon-block-body-four'>
             <div class='icon-block-item'>
               <a href="/302.html?target=https://www.okx.com/join/62030781" target="_blank">
@@ -33,10 +32,7 @@ permalink: "/exchange.html"
                   <p>GateIO</p>
               </a>
             </div>
-          </div>
         </div>
-        <div class="col-md-8">
-
         {% for category in site.categories %} 
         {% if page.category == category[0] %}
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>交易所教程</span></h4>
