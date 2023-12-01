@@ -26,9 +26,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/f
         <p>火币</p>
     </a>
   </div>
-</div>
-<div class='icon-block-body-two'>
-    <div class='icon-block-item'>
+   <div class='icon-block-item'>
     <a href="/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO 官网" height=50px>
         <p>GateIO</p>
