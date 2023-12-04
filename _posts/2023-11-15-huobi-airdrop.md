@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "火币专属空投奖励，任意交易就送 3U"
+title:  "火币专属空投奖励，任意交易就送 5U"
 author: jane
 categories: [ airdrop, exchange ]
-image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-act-betrys.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-act-12.webp
 tags: [sticky]
 ---
 火币联合 Betrys 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
@@ -15,10 +15,14 @@ tags: [sticky]
 #### 注册高返佣
 注册账号在活动期间都可以获得比其他平台高的现货和合约返佣 30%，当前为各大交易所最高的返佣福利了
 
-#### 交易送 3 U（betrys社区专项）
+#### 交易送 5 U（betrys社区专项）
 <p class="red-text-word">
-注册后只要发生任何一笔交易就可以获得 3U 的 bigtime 空投
+注册后只要发生任何一笔交易就可以获得 5U 的空投
 </p>
+
+<div align=center>
+    <img alt="avive-task" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-act-12.webp" width="60%">
+</div>
 
 ### 新人注册福利
 注册奖励 1 USDT 
