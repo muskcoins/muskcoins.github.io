@@ -36,4 +36,4 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/a
 
 [https://venom.network/tasks](/302.html?target=https://venom.network/tasks)
 
-[火币专属空投奖励，任意交易就送 3U](/huobi-airdrop/)
+[火币专属空投奖励，任意交易就送 5U](/huobi-airdrop/)
