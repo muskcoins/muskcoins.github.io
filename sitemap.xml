@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2023-12-05T02:39:17.813Z</lastmod>
+    <lastmod>2023-12-05T02:48:40.400Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -52,7 +52,10 @@
     <loc>https://muskcoins.github.io/coins-index/</loc>
     <lastmod>2023-12-04</lastmod>
   </url><url>
-    <loc>https://muskcoins.github.io/Ordi/</loc>
+    <loc>https://muskcoins.github.io/ordi/</loc>
+    <lastmod>2023-12-05</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/web3-wallet-safety/</loc>
     <lastmod>2023-12-05</lastmod>
   </url>
 </urlset>
