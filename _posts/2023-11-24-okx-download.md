@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欧易(OKX)注册下载教程"
+title:  "欧易(OKX)注册下载小白教程｜附带注册返佣现金福利"
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-register.webp
