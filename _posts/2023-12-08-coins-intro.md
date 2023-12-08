@@ -2,7 +2,7 @@
 layout: post
 title:  加密货币交易所有哪些，应该选择哪个交易所？
 categories: [ exchange ]
-image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/coins-exchange.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/img/coins-exchange.webp
 ---
 目前比较常见的交易所有币安、欧易、火币、bitget 以及 gateio 等等，不同的交易所提供不同的服务、费用结构和安全性，因此选择合适的交易所对于投资者来说是一个重要的决策。以下是关于加密货币交易所的一些信息，以及在选择时应该考虑的一些建议。
 
