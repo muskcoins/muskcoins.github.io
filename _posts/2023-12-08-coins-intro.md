@@ -8,13 +8,13 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/c
 
 我们先提供以下交易所的注册地址，注册都带有返佣，建议你都先注册一下，因为都有返佣，先注册好再去体验，再考虑使用哪个交易所：
 
-|  交易所   | 官网地址  | 返佣地址  | 
-|  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](/302.html?target=https://www.7202020.com/join/62030781)  [欧易海外](/302.html?target=https://www.okx.com/join/62030781) | [返佣国内](/302.html?target=https://www.7202020.com/join/62030781) [返佣海外](/302.html?target=https://www.okx.com/join/62030781)  |
-| 币安-bnb | [bnb币安官网](/302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](/302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  |
-| 火币-HTX | [火币官网](/302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](/302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)  |
-| gateIO | [GateIO官网](/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
-| bitGet | [bitGet官方](/302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](/302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  |
+|  交易所   | 官网地址  | 返佣地址  | 邀请码 |
+|  ----  | ----  | ----  | ----  |
+| 欧易-okx  | [欧易国内](/302.html?target=https://www.7202020.com/join/62030781)  [欧易海外](/302.html?target=https://www.okx.com/join/62030781) | [返佣国内](/302.html?target=https://www.7202020.com/join/62030781) [返佣海外](/302.html?target=https://www.okx.com/join/62030781)  | 62030781 |
+| 币安-bnb | [bnb币安官网](/302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](/302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  | ED13UFJ5 |
+| 火币-HTX | [火币官网](/302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](/302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)  | xgf98223 |
+| gateIO | [GateIO官网](/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  | UllHXA0J |
+| bitGet | [bitGet官方](/302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](/302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  | ml6l51911687837747447 |
 
 ### 选择交易所要素
 
