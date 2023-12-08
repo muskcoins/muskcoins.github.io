@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欧易提现人民币教程 | 提现必须知道的细节知识避免被坑"
+title:  "欧易提现人民币教程 | 欧易提现流程介绍"
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-withdraw-page.webp
 ---
