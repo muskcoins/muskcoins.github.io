@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2023-12-08T02:59:58.050Z</lastmod>
+    <lastmod>2023-12-11T03:10:04.851Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,37 +20,37 @@
     <lastmod>2023-11-30</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/buy-coins/</loc>
-    <lastmod>2023-11-30</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/web3-wallet/</loc>
-    <lastmod>2023-11-30</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/avive/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/btc/</loc>
-    <lastmod>2023-12-01</lastmod>
+    <lastmod>2023-12-09</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-download/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-09</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-web3/</loc>
-    <lastmod>2023-12-04</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-withdraw/</loc>
-    <lastmod>2023-12-06</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/airdrop-course/</loc>
-    <lastmod>2023-12-05</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/pols/</loc>
     <lastmod>2023-12-05</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/bibi/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/coins-index/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-09</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/Ordi/</loc>
     <lastmod>2023-12-07</lastmod>
@@ -59,6 +59,9 @@
     <lastmod>2023-12-07</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/coins-intro/</loc>
-    <lastmod>2023-12-08</lastmod>
+    <lastmod>2023-12-11</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/inscription/</loc>
+    <lastmod>2023-12-11</lastmod>
   </url>
 </urlset>
