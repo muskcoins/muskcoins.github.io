@@ -1,8 +1,8 @@
 ---
 title: "币圈福利"
 layout: default
-category: safety
-permalink: "/safety.html"
+category: welfare
+permalink: "/welfare.html"
 ---
 <div class="container">
     <div class="row justify-content-center">
@@ -10,7 +10,7 @@ permalink: "/safety.html"
 
         {% for category in site.categories %} 
         {% if page.category == category[0] %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>币圈防坑</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>币圈福利</span></h4>
         {% assign pages_list = category[1] %}
         {% assign count = 0 %}
         {% for post in pages_list %}
