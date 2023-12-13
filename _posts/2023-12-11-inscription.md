@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  比特币铭文是什么？铭文的价值和意义在哪里？NFT 和铭文有什么区别
+title:  币圈铭文是什么？铭文的价值和意义在哪里？NFT 和铭文有什么区别
 categories: [ coins ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/btc-intro.webp
 --- 
