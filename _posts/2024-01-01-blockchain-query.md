@@ -2,7 +2,7 @@
 layout: post
 title: 链上哈希交易查询指南｜USDT链上交易查询教程｜以太坊、波场、币安智能链区块链浏览器查询教程
 categories: [ wallet ]
-image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/img/blockchain-browser.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/blockchain-browser.webp
 ---
 USDT（Tether）是一种基于区块链技术的稳定币，广泛应用于加密货币交易，其次也渗透到了各种支付场景中，因此了解其交易查询势必非常重要。在不同的区块链上，如以太坊、波场和币安智能链，用户可以通过相应的查询工具来追踪和验证USDT的链上交易记录。本文将为您介绍在这三个主要区块链上进行USDT链上交易查询的详细步骤。
 
