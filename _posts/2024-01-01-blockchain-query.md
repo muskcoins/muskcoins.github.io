@@ -63,7 +63,7 @@ USDT（Tether）是一种基于区块链技术的稳定币，广泛应用于加�
 如果你会看以太坊的，那么 Tron 也基本会看了，只是这里需要注意的是，上面的转账金额在刚才以太坊一样的 Token Transfer 里面，你可以看到转账了 405 的USDT。其他的我就不过多解释了。
 
 ### 3. 币安智能链（BSC）上的USDT链上交易查询
-币安上的项目也比较多，因此这里也简单介绍下在币安智能链上查询USDT交易，使用 BscScan 即可完成：
+币安上的项目也比较多，因此这里也简单介绍下在币安智能链上查询USDT交易，使用 BscScan [https://bscscan.com/](/302.html?target=https://bscscan.com/) 即可完成：
 
 <div align=center>
     <img alt="airdrop-project" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bsc-trans-hash.webp" width="70%">
