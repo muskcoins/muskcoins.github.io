@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欧易提现人民币教程 | OKX提现流程介绍"
+title:  "欧易提现人民币教程 | 欧易怎么提现流一分钟学会"
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-withdraw-page.webp
 ---
