@@ -2,7 +2,7 @@
 layout: post
 title: WBroker 交易所｜usdt 购买港股美股教程，usdt 可以购买特斯拉股票，usdt 购买腾讯股票
 categories: [ wallet ]
-image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/imgages/usdt-buy-tsla.webp
+image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/usdt-buy-tsla.webp
 ---
 usdt 能买港股，买腾讯股票，买阿里股票，买美团股票，能买美股特斯拉，买谷歌股票等等，以前想都不敢想，我们怎么能投资港美股呢？因为监管的原因，之前只能通过跨境交易所，比如富途，但是存在一个问题就是开户困难，基本没法开户，甚至现在已经控制入金了，因此你想要入金也比较困难。那么有没有方法呢？现在有了，有一家叫做 WBroker 交易所的公司，支持 usdt 投资港美股了。
 
