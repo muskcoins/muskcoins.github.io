@@ -12,7 +12,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](/302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.ouxyi.church/join/90884854](/302.html?target=https://www.ouxyi.church/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouxyi.tires/join/90884854](/302.html?target=https://www.ouxyi.tires/join/90884854)
 
 
 ### 下载 APP 打开盲盒现金
