@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 火币联合 Betrys 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
 
-[火币官方福利注册链接](/302?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)
+[火币官方福利注册链接](/302?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)
 
 ### 福利有哪些？
 
