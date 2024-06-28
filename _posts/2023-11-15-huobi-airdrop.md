@@ -4,7 +4,6 @@ title:  "火币专属空投奖励，任意交易就送 5U"
 author: jane
 categories: [ airdrop, exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-act-12.webp
-tags: [sticky]
 ---
 火币联合 Betrys 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
 
