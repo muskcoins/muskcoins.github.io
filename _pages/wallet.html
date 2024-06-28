@@ -1,5 +1,5 @@
 ---
-title: "钱包知识"
+title: "Wallet Tutorial"
 layout: default
 category: wallet
 permalink: "/wallet.html"
@@ -10,7 +10,7 @@ permalink: "/wallet.html"
 
         {% for category in site.categories %} 
         {% if page.category == category[0] %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>钱包知识</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>Tutorial</span></h4>
         {% assign pages_list = category[1] %}
         {% assign count = 0 %}
         {% for post in pages_list %}

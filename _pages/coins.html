@@ -1,5 +1,5 @@
 ---
-title: "币圈币种介绍"
+title: "Coins Introduction"
 layout: default
 category: coins
 permalink: "/coins.html"
@@ -10,7 +10,7 @@ permalink: "/coins.html"
 
         {% for category in site.categories %} 
         {% if page.category == category[0] %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>币种介绍</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>coins</span></h4>
         {% assign pages_list = category[1] %}
         {% assign count = 0 %}
         {% for post in pages_list %}
