@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "火币注册空投奖励"
+title: Huobi Register Airdrop
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-register.webp

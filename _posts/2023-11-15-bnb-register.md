@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "币安 BNB 注册返佣"
+title:  Binance Register Airdrop
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp

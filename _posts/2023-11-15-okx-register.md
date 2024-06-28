@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欧易 OKX 盲盒空投"
+title:  OKX Register Airdrop
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-register.webp
