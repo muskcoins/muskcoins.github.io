@@ -1,6 +1,6 @@
 # Site
-name: '币圈知识库'
-description: '专注币圈交易以及币圈新币挖掘，空投知识，币种介绍，以及钱包知识以及各种币圈服务导航'
+name: 'coins knowledge-betrys'
+description: 'Focus on cryptocurrency trading and the exploration of new cryptocurrencies, airdrop knowledge, coin introductions, wallet knowledge, and various cryptocurrency service guides.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -18,18 +18,18 @@ plugins:
   
 authors:
     sal:
-      name:           软件翻译官
+      name:           betrys
       site:           https://twitter.com/idanhua
       avatar:         ./assets/images/avatar1.webp
-      bio:            "币圈各类教程玩法"
+      bio:            ""
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/idanhua
 
     jane:
-      name:           yukie 爱猫你
+      name:           yukie
       site:           https://twitter.com/yukie_love_cat
       avatar:         ./assets/images/avatar2.webp
-      bio:            "专注币圈合约玩法的小妞妞"
+      bio:            ""
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/yukie_love_cat
  
