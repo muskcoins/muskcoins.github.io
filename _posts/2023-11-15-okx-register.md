@@ -2,7 +2,7 @@
 layout: post
 title:  OKX Register Airdrop
 author: jane
-categories: [ exchange ]
+categories: [ welfare ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/okx-register.webp
 tags: [featured]
 ---

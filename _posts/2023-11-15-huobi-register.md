@@ -2,7 +2,7 @@
 layout: post
 title: Huobi Register Airdrop
 author: jane
-categories: [ exchange ]
+categories: [ welfare ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-register.webp
 tags: [featured]
 ---

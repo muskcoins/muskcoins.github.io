@@ -2,7 +2,7 @@
 layout: post
 title:  Binance Register Airdrop
 author: jane
-categories: [ exchange ]
+categories: [ welfare ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp
 tags: [featured]
 ---
