@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Can Binance Be Used in the US? How to Register?
+title:  Can Binance Be Used in the US? Binance usa official website
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp
