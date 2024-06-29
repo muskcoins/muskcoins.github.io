@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2024-06-29T02:02:19.612Z</lastmod>
+    <lastmod>2024-06-29T02:13:01.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -99,6 +99,9 @@
   </url><url>
     <loc>https://muskcoins.github.io/usdt-usdc/</loc>
     <lastmod>2024-06-28</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/binance-trusted/</loc>
+    <lastmod>2024-06-29</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/binance-us/</loc>
     <lastmod>2024-06-29</lastmod>
