@@ -7,7 +7,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/b
 ---
 When it comes to cryptocurrency trading, understanding the fee structure is crucial for maximizing profits and minimizing costs. Binance, one of the largest and most popular cryptocurrency exchanges in the world, is known for its competitive fee structure. But how high are Binance fees really?
 
-[Register at the 20% fee discount Link](https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Register at the 20% fee discount Link](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
 
 #### Trading Fees on Binance
 
