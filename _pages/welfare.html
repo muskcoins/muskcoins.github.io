@@ -1,5 +1,5 @@
 ---
-title: "币圈福利"
+title: "Welfare"
 layout: default
 category: welfare
 permalink: "/welfare.html"
@@ -10,7 +10,7 @@ permalink: "/welfare.html"
 
         {% for category in site.categories %} 
         {% if page.category == category[0] %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>币圈福利</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>Latest</span></h4>
         {% assign pages_list = category[1] %}
         {% assign count = 0 %}
         {% for post in pages_list %}
