@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Buy BTC on Binance？Buy btc online
+title:  How to Buy BTC on Binance？buy btc online
 categories: [ coins ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/btc-intro.webp
 ---
