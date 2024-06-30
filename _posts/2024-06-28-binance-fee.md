@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Are Binance Fees High?
+title:  Are Binance Fees High? Binance trading fees
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp
