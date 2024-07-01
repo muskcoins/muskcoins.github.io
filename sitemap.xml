@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2024-06-29T10:30:02.873Z</lastmod>
+    <lastmod>2024-07-01T06:35:10.079Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -83,7 +83,7 @@
     <lastmod>2024-06-28</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/binance-fee/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-06-30</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-india/</loc>
     <lastmod>2024-06-28</lastmod>
@@ -98,7 +98,7 @@
     <lastmod>2024-06-28</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/usdt-usdc/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-01</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/binance-trusted/</loc>
     <lastmod>2024-06-29</lastmod>
@@ -111,5 +111,8 @@
   </url><url>
     <loc>https://muskcoins.github.io/how-to-buy-btc/</loc>
     <lastmod>2024-06-29</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/binance-eth/</loc>
+    <lastmod>2024-07-01</lastmod>
   </url>
 </urlset>
