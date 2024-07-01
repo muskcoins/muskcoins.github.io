@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Buy ETH? Buy ETH on Binance
+title:  How to Buy ETH? Buy ETH on Binance,buy eth on coinbase?
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp
