@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  How to Buy ETH? Buy ETH on Binance,buy eth on coinbase?
+title:  How to Buy ETH? how to buy ethereum on binance?
 author: jane
 categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp
 ---
-Ethereum (ETH) is one of the most popular cryptocurrencies in the world, buy eth coins, known for its smart contract functionality and vibrant ecosystem. If you're looking to buy ETH, Binance is a reliable and user-friendly platform that offers a seamless experience. In this guide, we'll walk you through the steps to purchase ETH on Binance.
+how to buy eth in binance, Ethereum (ETH) is one of the most popular cryptocurrencies in the world, buy eth coins, known for its smart contract functionality and vibrant ecosystem. If you're looking to buy ETH, Binance is a reliable and user-friendly platform that offers a seamless experience. In this guide, we'll walk you through the steps to purchase ETH on Binance.
 
 ## Step 1: Create a Binance Account
 
