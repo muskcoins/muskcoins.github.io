@@ -10,6 +10,11 @@ how to convert usdt to cash, USDT (Tether) is a widely used stablecoin in the cr
 
 1. **Creating a Wallet**:
    - **Choose a Wallet**: To start using USDT, you need a digital wallet that supports this stablecoin. Options include hardware wallets (like Ledger or Trezor), software wallets (like Exodus or Trust Wallet), and exchange wallets (like Binance or Coinbase).
+
+      [Binance wallet register link](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+
+      [OKX wallet register link](/302.html?target=https://www.okx.com/join/65103688)
+
    - **Set Up the Wallet**: Follow the instructions provided by the wallet service to set up your wallet. Ensure you back up your recovery phrase securely.
 
 2. **Acquiring USDT**:
