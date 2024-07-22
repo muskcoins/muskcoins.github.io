@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bitcoin About to Crash: Insights and Predictions
+title:  Bitcoin About to Crash, Insights and Predictions
 categories: [ coins ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/btc-intro.webp
 ---
