@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Exploring the Differences Between Binance US and Binance
-categories: [ coins ]
+categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/bnb-register.webp
 ---
 

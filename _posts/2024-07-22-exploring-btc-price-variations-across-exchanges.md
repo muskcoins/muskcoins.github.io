@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring BTC Price Variations Across Exchanges
-categories: [ coins ]
+categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/btc-intro.webp
 ---
 

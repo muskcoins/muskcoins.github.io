@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the Potential of Pi Network with Binance
-categories: [ coins ]
+categories: [ exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/btc-intro.webp
 ---
 
