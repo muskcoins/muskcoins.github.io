@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2024-07-22T09:19:50.115Z</lastmod>
+    <lastmod>2024-08-06T02:46:51.571Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -29,13 +29,13 @@
     <lastmod>2024-01-02</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/btc/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-download/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-web3/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/okx-withdraw/</loc>
     <lastmod>2024-04-06</lastmod>
@@ -50,7 +50,7 @@
     <lastmod>2023-12-08</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/coins-index/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/Ordi/</loc>
     <lastmod>2023-12-07</lastmod>
@@ -59,16 +59,16 @@
     <lastmod>2024-06-28</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/coins-intro/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/inscription/</loc>
     <lastmod>2024-01-02</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/usdt-to-rmb/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/usdt-pay/</loc>
-    <lastmod>2024-07-12</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/blockchain-query/</loc>
     <lastmod>2024-04-09</lastmod>
@@ -161,7 +161,7 @@
     <lastmod>2024-07-22</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/binance-referral-code-after-registration/</loc>
-    <lastmod>2024-07-22</lastmod>
+    <lastmod>2024-07-27</lastmod>
   </url><url>
     <loc>https://muskcoins.github.io/bitcoin-about-to-crash/</loc>
     <lastmod>2024-07-22</lastmod>
@@ -183,5 +183,8 @@
   </url><url>
     <loc>https://muskcoins.github.io/unlock-the-potential-of-btc-to-usd-conversion/</loc>
     <lastmod>2024-07-22</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/telegram-mini-game/</loc>
+    <lastmod>2024-08-06</lastmod>
   </url>
 </urlset>
