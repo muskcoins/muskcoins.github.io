@@ -4,12 +4,6 @@ title: Dive into the World of Play-to-Earn Mini-Games with TG Games on Telegram!
 categories: [ airdrop ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/telegram-game-logo.png
 ---
-当然！这是另一篇介绍文章的草稿，包括另一个地址：
-
----
-
-## Dive into the World of Play-to-Earn Mini-Games with TG Games on Telegram!
-
 Are you ready to elevate your gaming experience and earn while you play? Welcome to TG Games, your premier platform for discovering top Telegram mini-games that combine entertainment with real earning potential. 
 
 ### What is TG Games?
