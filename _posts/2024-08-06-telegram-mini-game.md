@@ -6,6 +6,10 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/t
 ---
 Are you ready to elevate your gaming experience and earn while you play? Welcome to TG Games, your premier platform for discovering top Telegram mini-games that combine entertainment with real earning potential. 
 
+ [https://tggames.org/en](https://tggames.org/en)
+ 
+ [open this in telegram link](https://t.me/tgGameCenterBot/tggame)
+
 ### What is TG Games?
 
 TG Games is a cutting-edge platform that curates the best play-to-earn and airdrop mini-games available on Telegram. Our focus is on games that operate on the TON blockchain, ensuring you have access to the most rewarding and enjoyable gaming experiences.
