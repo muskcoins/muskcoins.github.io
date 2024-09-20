@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring the Revolutionary Intersection of Telegram and GameFi: A Comprehensive Guide
+title: Exploring the Revolutionary Intersection of Telegram and GameFi:A Comprehensive Guide
 categories: [coins]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/telegram-game-logo.png
 ---
