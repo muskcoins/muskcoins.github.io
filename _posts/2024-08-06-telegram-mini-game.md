@@ -26,4 +26,4 @@ TG Games is a cutting-edge platform that curates the best play-to-earn and airdr
 
 Getting started is simple. Visit our website at [https://tggames.org/en](https://tggames.org/en) to explore and enjoy our curated selection of mini-games. For a seamless experience on Telegram, access our platform directly through this [link](https://t.me/tgGameCenterBot/tggame).
 
-Join TG Games today and discover how you can make the most out of your gaming hobby. Play, earn, and enjoy with TG Games!
+Join TG Games today and discover how you can make the most out of your gaming hobby. Play, earn, and enjoy with TG Games
