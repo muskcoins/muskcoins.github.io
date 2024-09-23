@@ -25,7 +25,7 @@ Ton游戏的本质在于邀请机制，邀请越多，收益越高。基于这�
 我们会寻找大学生，为我们做前期的付费体验，当发现优质项目时才会进行上架到平台，避免浪费游戏者不必要的时间成本。
 
 <div align=center>
-    <img alt="telegram-games-popular" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/telegram-games-popular.webp" width="70%">
+    <img alt="telegram-games-mini-popular" src="https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/telegram-mini-games-popular.webp" width="70%">
 </div>
 
 比如这里的游戏我们提供了一个分类，热门游戏，这里的热门就是降低用户选择游戏的难度。
