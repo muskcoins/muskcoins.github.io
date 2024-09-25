@@ -6,9 +6,9 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/t
 ---
 Are you an avid gamer looking to explore new games and earn rewards while having fun? Look no further than my Telegram games channel! This channel is a one-stop destination for everything related to Telegram games, designed to help you quickly find games that not only entertain but also offer opportunities to make money.
 
-[Follow the Telegram Games Channel](https://t.me/miniGamesn)
+[Follow the Telegram Games Channel](/302.html?target=https://t.me/miniGamesn)
 
-[Open the Game Center in Telegram](https://t.me/tgGameCenterBot/tggame)
+[Open the Game Center in Telegram](/302.html?target=https://t.me/tgGameCenterBot/tggame)
 
 ### Why Join My Telegram Games Channel?
 
@@ -37,4 +37,4 @@ To find more games, you can join various Telegram games channels. These channels
 
 ### Join Now and Level Up Your Gaming Experience
 
-Ready to dive into a world of fun and rewards? Join my Telegram games channel today! It’s time to explore new games, earn rewards, and master your favorite titles with ease. Remember to check out the [Telegram Game Center](https://t.me/tgGameCenterBot/tggame) and join popular Telegram games channels to stay updated with the latest games and trends.
+Ready to dive into a world of fun and rewards? Join my Telegram games channel today! It’s time to explore new games, earn rewards, and master your favorite titles with ease. Remember to check out the [Telegram Game Center](/302.html?target=https://t.me/tgGameCenterBot/tggame) and join popular Telegram games channels to stay updated with the latest games and trends.
