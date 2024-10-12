@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muskcoins.github.io/</loc>
-    <lastmod>2024-10-12T03:01:30.836Z</lastmod>
+    <lastmod>2024-10-12T03:11:22.646Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -210,5 +210,8 @@
   </url><url>
     <loc>https://muskcoins.github.io/how-to-play-telegram-games/</loc>
     <lastmod>2024-09-25</lastmod>
+  </url><url>
+    <loc>https://muskcoins.github.io/telegram-games-ranking/</loc>
+    <lastmod>2024-10-12</lastmod>
   </url>
 </urlset>
