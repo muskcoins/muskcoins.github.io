@@ -33,4 +33,4 @@ Several factors can influence the cost of Bitcoin transaction fees, including:
 
 While Bitcoin transaction fees have decreased from their peak, they can still be considerable during times of high network activity. Understanding the factors that influence these fees can help users navigate the ecosystem more effectively and potentially save on costs.
 
-For those looking to trade or invest in Bitcoin, consider visiting [OKX official website](/302.html?target=https://www.okx.com/join/65103688) and [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV) for more information and opportunities in the cryptocurrency space.
+For those looking to trade or invest in Bitcoin, consider visiting [OKX official website](/302.html?target=https://www.okx.com/join/65103688) and [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys) for more information and opportunities in the cryptocurrency space.

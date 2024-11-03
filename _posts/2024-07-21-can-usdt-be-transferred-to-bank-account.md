@@ -20,7 +20,7 @@ Yes, USDT can be transferred to a bank account, but the process involves convert
 Several cryptocurrency exchanges and platforms facilitate the conversion of USDT to fiat currency and its subsequent withdrawal to a bank account. Two notable platforms are:
 
 - [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
-- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 These platforms offer a straightforward process for converting USDT to fiat and withdrawing it to your bank account, subject to their terms and conditions, and withdrawal limits.
 

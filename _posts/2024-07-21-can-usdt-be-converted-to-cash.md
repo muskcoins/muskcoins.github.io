@@ -19,7 +19,7 @@ There are several reasons why an individual might want to convert USDT to cash. 
 
 Converting USDT to cash involves several steps, which can vary depending on the method chosen. Here are the general steps involved:
 
-1. **Select a Cryptocurrency Exchange:** Choose an exchange that supports USDT and offers fiat withdrawal options. Major exchanges like [OKX official website](/302.html?target=https://www.okx.com/join/65103688) and [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV) are popular choices.
+1. **Select a Cryptocurrency Exchange:** Choose an exchange that supports USDT and offers fiat withdrawal options. Major exchanges like [OKX official website](/302.html?target=https://www.okx.com/join/65103688) and [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys) are popular choices.
 
 2. **Transfer USDT to the Exchange:** If your USDT is stored in a digital wallet, transfer it to your account on the chosen exchange.
 

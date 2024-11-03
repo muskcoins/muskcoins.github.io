@@ -34,6 +34,6 @@ To get started with a Bitcoin course in Hindi, all you need is an interest in le
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 Embarking on a Bitcoin course in Hindi can open up a new world of opportunities and knowledge. Whether you're looking to invest in Bitcoin or simply want to understand the technology behind it, such a course can provide you with the insights you need to navigate the crypto space confidently.

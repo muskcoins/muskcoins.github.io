@@ -11,7 +11,7 @@ how to buy eth in binance, Ethereum (ETH) is one of the most popular cryptocurre
 
 If you don’t already have a Binance account, you’ll need to create one. Here’s how:
 
-1. **Visit the Binance Website**: Go to [Binance official](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV) and click on the “Register” button.
+1. **Visit the Binance Website**: Go to [Binance official](/302.html?target=https://accounts.binance.com/register?ref=betrys) and click on the “Register” button.
 2. **Sign Up**: Enter your email address, create a strong password, and agree to the terms of service. Alternatively, you can sign up using your mobile number.
 3. **Verification**: Verify your email address by clicking the link sent to your inbox. For enhanced security and higher withdrawal limits, complete the KYC (Know Your Customer) verification process by providing your identification documents.
 

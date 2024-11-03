@@ -7,7 +7,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/b
 ---
 Binance is one of the largest and most well-known cryptocurrency exchanges globally, offering a wide array of services including trading, staking, and lending for numerous digital assets. Given its prominent position in the cryptocurrency market, questions often arise regarding its trustworthiness and security. This article addresses two key concerns: Can Binance be trusted, and can Binance be hacked?
 
-[Binance US official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance US official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 ### Can Binance Be Trusted?
 

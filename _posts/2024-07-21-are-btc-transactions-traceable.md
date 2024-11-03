@@ -31,4 +31,4 @@ For those interested in diving deeper into the world of cryptocurrencies, consid
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)

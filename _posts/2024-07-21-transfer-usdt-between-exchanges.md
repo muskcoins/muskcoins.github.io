@@ -33,6 +33,6 @@ When transferring USDT, selecting the correct blockchain is crucial. Each blockc
 For those looking to get started or switch exchanges, consider using the following promotional links:
 
 - [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
-- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 By following these guidelines, traders can minimize risks and ensure that their USDT transfers between exchanges are successful and secure.

@@ -9,9 +9,9 @@ Buying Bitcoin (BTC) on Binance, Binance app to buy btc, one of the world’s la
 ## Step 1: Create a Binance Account
 
 ### 1.1 Visit Binance Website
-Go to the official Binance website ([www.binance.com](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)). Ensure that you are on the correct site to avoid phishing scams.
+Go to the official Binance website ([www.binance.com](/302.html?target=https://accounts.binance.com/register?ref=betrys)). Ensure that you are on the correct site to avoid phishing scams.
 
-[Binance official website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 ### 1.2 Register
 Click on the "Register" button at the top right corner. You can sign up using your email or phone number. Fill in the necessary details, including a strong password, and follow the prompts to complete the registration.

@@ -11,7 +11,7 @@ how to convert usdt to cash, USDT (Tether) is a widely used stablecoin in the cr
 1. **Creating a Wallet**:
    - **Choose a Wallet**: To start using USDT, you need a digital wallet that supports this stablecoin. Options include hardware wallets (like Ledger or Trezor), software wallets (like Exodus or Trust Wallet), and exchange wallets (like Binance or Coinbase).
 
-      [Binance wallet register link](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+      [Binance wallet register link](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
       [OKX wallet register link](/302.html?target=https://www.okx.com/join/65103688)
 
@@ -29,7 +29,7 @@ how to convert usdt to cash, USDT (Tether) is a widely used stablecoin in the cr
 #### How to Convert USDT to Cash
 
 1. **Using a Cryptocurrency Exchange**:
-   - **Select an Exchange**: Choose a reputable cryptocurrency exchange that supports USDT and allows fiat withdrawals, such as [Binance](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV), [OKX](/302.html?target=https://www.okx.com/join/65103688), Kraken, or Coinbase.
+   - **Select an Exchange**: Choose a reputable cryptocurrency exchange that supports USDT and allows fiat withdrawals, such as [Binance](/302.html?target=https://accounts.binance.com/register?ref=betrys), [OKX](/302.html?target=https://www.okx.com/join/65103688), Kraken, or Coinbase.
    - **Deposit USDT**: Transfer your USDT from your wallet to your exchange account.
    - **Trade USDT for Fiat**: Once your USDT is in your exchange account, you can place an order to sell it for your preferred fiat currency (e.g., USD, EUR).
    - **Withdraw Funds**: After the trade is completed, withdraw the fiat currency to your bank account. Follow the exchange’s instructions for linking your bank account and initiating a withdrawal.

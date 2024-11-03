@@ -21,7 +21,7 @@ Two of the most popular exchanges for trading Bitcoin are OKX and Binance. Both 
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 ### Conclusion
 

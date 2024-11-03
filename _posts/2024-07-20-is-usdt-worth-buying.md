@@ -8,7 +8,7 @@ In the fast-paced world of cryptocurrency, Tether (USDT) stands out as a stablec
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 ### Stability in a Volatile Market
 

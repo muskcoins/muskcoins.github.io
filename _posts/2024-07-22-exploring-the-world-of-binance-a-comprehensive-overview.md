@@ -10,6 +10,6 @@ One of the key reasons for Binance's success is its commitment to security, user
 
 Binance also plays a pivotal role in the blockchain ecosystem, supporting the development of new projects through its Binance Launchpad platform. This initiative has helped numerous blockchain projects get off the ground, contributing to the overall growth and diversity of the blockchain industry.
 
-For those interested in joining the Binance community, you can start by visiting the [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV). Additionally, if you're exploring other exchanges, the [OKX official website](/302.html?target=https://www.okx.com/join/65103688) is another excellent platform worth considering.
+For those interested in joining the Binance community, you can start by visiting the [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys). Additionally, if you're exploring other exchanges, the [OKX official website](/302.html?target=https://www.okx.com/join/65103688) is another excellent platform worth considering.
 
 In conclusion, Binance's comprehensive suite of services, coupled with its commitment to the community and blockchain technology, makes it a cornerstone of the cryptocurrency world. Whether you're a seasoned trader or new to the crypto space, Binance offers a platform that caters to a wide range of needs.

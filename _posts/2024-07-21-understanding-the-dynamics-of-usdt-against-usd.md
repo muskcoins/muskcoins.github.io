@@ -27,4 +27,4 @@ Despite its benefits, USDT has faced scrutiny regarding its reserve holdings and
 
 USDT against USD is a pivotal aspect of the cryptocurrency market, offering stability and reliability amidst volatility. As the market continues to evolve, the role of USDT will undoubtedly be a topic of ongoing discussion and interest.
 
-For those looking to trade USDT or explore the dynamics of the cryptocurrency market, visiting [OKX official website](/302.html?target=https://www.okx.com/join/65103688) and [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV) can provide valuable resources and insights.
+For those looking to trade USDT or explore the dynamics of the cryptocurrency market, visiting [OKX official website](/302.html?target=https://www.okx.com/join/65103688) and [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys) can provide valuable resources and insights.

@@ -17,7 +17,7 @@ A BTC to USD converter is a tool that calculates the current exchange rate betwe
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 ## Choosing the Right Converter
 

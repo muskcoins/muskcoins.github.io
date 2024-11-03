@@ -30,4 +30,4 @@ In conclusion, while Binance US and the global Binance platform share the same c
 For those looking to explore the world of cryptocurrency trading, both platforms offer unique advantages. It's essential to consider your location, trading needs, and the specific offerings of each platform before making a decision.
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)

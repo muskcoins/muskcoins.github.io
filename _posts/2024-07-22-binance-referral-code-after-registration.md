@@ -24,6 +24,6 @@ Don't miss out on the opportunity to maximize your trading potential and savings
 In addition to Binance, consider exploring other platforms that offer competitive trading options and referral benefits:
 
 - [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
-- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 Embrace the full spectrum of cryptocurrency trading by leveraging the power of referral codes, starting today.

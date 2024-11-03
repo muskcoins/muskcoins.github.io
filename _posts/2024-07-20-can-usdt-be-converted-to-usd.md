@@ -20,7 +20,7 @@ There are several platforms and services that allow for the conversion of USDT t
 One of the most straightforward ways to convert USDT to USD is through a cryptocurrency exchange. Many exchanges offer the ability to trade USDT for USD directly. Some of the most reputable exchanges for this purpose include:
 
 - [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
-- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+- [Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 These platforms not only provide a direct route for conversion but also offer a level of security and reliability that is crucial in the crypto space.
 

@@ -33,4 +33,4 @@ For secure trading and investment, consider visiting:
 
 and
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)

@@ -27,6 +27,6 @@ To start trading on some of the most reputable exchanges, consider visiting:
 
 [OKX official website](/302.html?target=https://www.okx.com/join/65103688)
 
-[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance official register website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 Remember, investing in cryptocurrencies involves risk, and it's important to conduct your own research before making investment decisions.

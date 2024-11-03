@@ -10,7 +10,7 @@ tags: [sticky]
 
 Are you looking to trade cryptocurrencies with lower fees? Look no further than Binance! Sign up today and enjoy a special offer: a 20% fee discount on all trades. Whether you're a beginner or an experienced trader, this promotion makes it easier than ever to maximize your gains.
 
-[20% Fee discount register link](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[20% Fee discount register link](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 **Why Choose Binance?**
 
@@ -28,4 +28,4 @@ Are you looking to trade cryptocurrencies with lower fees? Look no further than 
 
 This limited-time offer is perfect for anyone looking to save on trading fees while exploring the exciting world of cryptocurrencies. Join Binance today and start trading smarter!
 
-**Sign Up Now and Save:** [Link to Binance Registration Page](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+**Sign Up Now and Save:** [Link to Binance Registration Page](/302.html?target=https://accounts.binance.com/register?ref=betrys)

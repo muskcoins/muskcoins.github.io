@@ -29,7 +29,7 @@ Bitcoin is a decentralized digital currency, created in 2009 by an anonymous per
    - **Paper Wallets**: Physical printouts of your public and private keys.
 
 2. **Select a Reputable Exchange**: To buy Bitcoin, you need to use a cryptocurrency exchange. Some popular exchanges include:
-   - **Binance**: Offers a wide range of cryptocurrencies and advanced trading features. [click to register binance](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+   - **Binance**: Offers a wide range of cryptocurrencies and advanced trading features. [click to register binance](/302.html?target=https://accounts.binance.com/register?ref=betrys)
    - **OKX**: Offers a wide range of cryptocurrencies and advanced trading features. [click to register OKX](/302.html?target=https://www.okx.com/join/65103688)
    - **Coinbase**: Known for its user-friendly interface and strong security features.
    - **Kraken**: Known for its high liquidity and wide range of supported fiat currencies.

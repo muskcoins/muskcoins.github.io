@@ -7,7 +7,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/b
 ---
 Binance, one of the world's largest cryptocurrency exchanges, offers a wide range of services including trading, staking, and lending for numerous cryptocurrencies. However, its availability and functionality can vary significantly based on regional regulations. For residents of the United States, the question arises: Can Binance be used in the US?
 
-[Binance US official website](/302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
+[Binance US official website](/302.html?target=https://accounts.binance.com/register?ref=betrys)
 
 ### Regulatory Landscape
 
