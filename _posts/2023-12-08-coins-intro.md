@@ -10,7 +10,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/c
 
 |  交易所   | 官网地址  | 返佣地址  | 邀请码 |
 |  ----  | ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](/302.html?target=https://www.chouyi.co/62030781)  [欧易海外](/302.html?target=https://www.okx.com/join/62030781) | [返佣国内](/302.html?target=https://www.chouyi.co/62030781) [返佣海外](/302.html?target=https://www.okx.com/join/62030781)  | 62030781 |
+| 欧易-okx  | [欧易国内](/302.html?target=https://www.chouyi.onl/62030781)  [欧易海外](/302.html?target=https://www.okx.com/join/62030781) | [返佣国内](/302.html?target=https://www.chouyi.onl/62030781) [返佣海外](/302.html?target=https://www.okx.com/join/62030781)  | 62030781 |
 | 币安-bnb | [币安国内](/302.html?target=https://www.suitechsui.us/join?ref=betrys) [币安海外](/302.html?target=https://accounts.binance.com/register?ref=betrys) | [币安返佣地址](/302.html?target=https://accounts.binance.com/register?ref=betrys)  | betrys |
 | 火币-HTX | [火币官网](/302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](/302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)  | xgf98223 |
 | gateIO | [GateIO官网](/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](/302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  | UllHXA0J |
