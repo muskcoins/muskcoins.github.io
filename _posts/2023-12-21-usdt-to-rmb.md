@@ -11,7 +11,7 @@ usdt 要兑换 rmb 一般都需要经过交易所，不然是没办法进行兑�
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](/302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.ouyizh.ninja/90884854](/302.html?target=https://www.ouyizh.ninja/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouyizh.mobi/90884854](/302.html?target=https://www.ouyizh.mobi/90884854)
 
 如果你想用其他的交易所，可以查看这篇文章，里面有很多其他的交易所平台。
 
